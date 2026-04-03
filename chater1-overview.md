@@ -281,4 +281,5 @@ graph TD
 ## 补充：操作系统引导（Boot）
 
 开机后硬件初始化 → 加载引导程序 → 启动操作系统内核
-#[本章汇总](images/charpter1-1.png)
+#
+![本章汇总](images/charpter1-1.png)
